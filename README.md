@@ -1,5 +1,7 @@
 ##  PaymentHub AI
 
+LIVE DEPLOYED LINK  - https://payment-hub-five.vercel.app/#/login
+
 > Enterprise Payment Infrastructure Platform built for modern businesses.
 
 PaymentHub AI is a production-ready payment management platform that enables businesses to securely manage customers, transactions, invoices, subscriptions, refunds, analytics, and AI-powered financial insights from a single dashboard.
@@ -243,11 +245,6 @@ http://localhost/Payment-hub
 
 ---
 
-# 📸 Screenshots
-
-> Screenshots and demo GIFs will be added soon.
-
----
 
 # 📈 Roadmap
 
